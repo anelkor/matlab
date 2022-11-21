@@ -1,0 +1,4 @@
+https://www.mathworks.com/help/images/ref/jaccard.html
+https://www.mathworks.com/matlabcentral/fileexchange/26738-hausdorff-distance
+https://www.mathworks.com/matlabcentral/answers/317381-how-to-calculate-mean-average-percentage-error-in-matlab-single-array-division
+
