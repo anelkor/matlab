@@ -71,6 +71,7 @@ var findlumen
 var findmedia
 	findlumen = findlargest(bloblumen)
 	findmedia = findlargest(blobmedia)
+    show(findlumen and findmedia)
 }
 
 func plot(){
@@ -78,9 +79,10 @@ var findlumen
 var findmedia	
 var result
 	result = xor(plot(findlumen),plot(findmedia))	
+    show(result)
 }
 
 func compare(){
 var result
-	show(result.compare(result_from_groundtruth)
+	show(result.compare(result_from_groundtruth))
 }
